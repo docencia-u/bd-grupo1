@@ -24,7 +24,7 @@
             <td>2</td>
         </tr>
         <tr>
-            <td>MATÍAS</td> <td>MORENO SAAVEDRA</td> <td>m.morenosaavedra@uandresbello.edu</td> <td>1</td>
+            <td>MATÍAS</td> <td>MORENO&nbsp;SAAVEDRA</td> <td>m.morenosaavedra@uandresbello.edu</td> <td>1</td>
             <td>2</td>
         </tr>
         <tr>
